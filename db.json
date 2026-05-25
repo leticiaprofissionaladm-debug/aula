@@ -1,0 +1,31 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "login":"admin",
+            "senha": 123,
+            "tipo":"admin",
+            "adminId": 1
+        },
+        {
+            "id": 2,
+            "login":"aluno",
+            "senha": 123,
+            "tipo":"aluno",
+            "alunoId": 2
+        },
+        {
+            "id": 3,
+            "login":"professor",
+            "senha": "123",
+            "tipo":"professor",
+            "professor": 3
+        }
+    ],
+    "alunos": [],
+    "professores": [],
+    "admin": [],
+    "cursos": [],
+    "notas": [],
+    "matriculas": []
+}
